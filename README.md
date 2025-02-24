@@ -19,3 +19,7 @@ Este proyecto es una aplicación web sencilla para añadir nombres de amigos a u
 2. Abre el archivo `index.html` en tu navegador.
 3. Ingresa el nombre de un amigo en el campo de texto y haz clic en "Añadir" para agregarlo a la lista.
 4. Haz clic en "Sortear amigo" para elegir un amigo al azar de la lista.
+
+## Listo para jugar ? 
+- solo presiona https://pame-olguin.github.io/challenge-amigo-secreto_esp-main/ y a jugar !
+  
